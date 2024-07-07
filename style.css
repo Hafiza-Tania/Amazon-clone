@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+   border: 2px solid white;
+}
+a{
+   text-decoration: none;
+   color: white;
+   margin-right: 150px;
+
+}
+.logo{
+    font-size: 25px;
+    color: rgb(230, 170, 21);
+    font-weight: 600;
+}
+button{
+    background-color: rgb(230, 170, 21);
+    color: white;
+}
+main{
+    background-color: rgb(189, 154, 67);
+    width: 100vw;
+    height: 35vw;
+}
+.box{
+    height: 400px;
+    width: 300px;
+    background-color: black;
+    margin: 10px;
+    display: inline-block;
+    border: 2px solid wheat;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+   border: 2px solid white;
+   width: 100vw;
+   height: 40px;
+}
